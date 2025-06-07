@@ -1,0 +1,301 @@
+Patient_ID,Age,Gender,Diagnosis,Length_of_Stay,Procedure,Department,Total_Bill,Insurance_Coverage (%),Readmitted (Yes/No)
+001,69,Male,Cancer,9,Imaging,General,16368,70,No
+002,32,Male,Heart Disease,13,Medication,Endocrinology,122360,67,No
+003,89,Female,Cancer,2,Imaging,Oncology,122755,52,Yes
+004,78,Male,Hypertension,4,Medication,Oncology,66985,91,No
+005,38,Female,Cancer,6,Surgery,Pulmonology,60069,88,Yes
+006,41,Male,Cancer,2,Blood Work,General,62326,90,No
+007,20,Female,Diabetes,8,Medication,Cardiology,118737,98,No
+008,39,Male,Diabetes,8,Imaging,General,60861,60,No
+009,70,Female,Diabetes,1,Surgery,General,85897,88,No
+010,19,Male,Cancer,12,Medication,Pulmonology,137118,73,No
+011,47,Female,Asthma,3,Therapy,Cardiology,78577,95,No
+012,55,Female,Cancer,10,Blood Work,Pulmonology,19078,68,No
+013,19,Male,Asthma,9,Medication,Cardiology,72768,53,Yes
+014,81,Male,Asthma,5,Surgery,Endocrinology,61047,75,No
+015,77,Female,Diabetes,6,Therapy,Cardiology,81626,87,Yes
+016,38,Male,Heart Disease,4,Surgery,Pulmonology,67660,91,No
+017,50,Female,Hypertension,10,Surgery,General,142997,81,No
+018,75,Male,Diabetes,2,Therapy,Cardiology,127832,88,No
+019,39,Female,Diabetes,11,Surgery,Cardiology,140406,94,Yes
+020,66,Female,Heart Disease,8,Therapy,Oncology,135150,95,Yes
+021,76,Female,Hypertension,11,Medication,General,43320,85,No
+022,59,Female,Cancer,13,Therapy,Endocrinology,74881,89,Yes
+023,77,Female,Cancer,6,Therapy,Pulmonology,100827,86,Yes
+024,32,Female,Diabetes,5,Blood Work,Endocrinology,112215,82,Yes
+025,79,Male,Hypertension,9,Therapy,General,144461,85,No
+026,79,Male,Diabetes,1,Therapy,Cardiology,71550,52,No
+027,64,Male,Asthma,5,Medication,Cardiology,34826,58,No
+028,79,Female,Diabetes,6,Blood Work,General,110734,57,Yes
+029,68,Female,Diabetes,5,Imaging,Cardiology,108511,82,No
+030,72,Female,Cancer,6,Medication,Cardiology,21653,55,No
+031,81,Female,Cancer,6,Medication,Cardiology,91941,90,No
+032,20,Male,Cancer,7,Imaging,Pulmonology,43662,88,Yes
+033,68,Male,Asthma,4,Therapy,Pulmonology,108818,53,Yes
+034,24,Female,Cancer,14,Surgery,Oncology,105081,62,Yes
+035,38,Male,Hypertension,11,Blood Work,Endocrinology,46877,98,No
+036,56,Male,Heart Disease,14,Surgery,General,121562,51,No
+037,35,Female,Hypertension,14,Imaging,General,82715,54,Yes
+038,21,Male,Hypertension,14,Medication,General,120091,93,Yes
+039,77,Female,Cancer,8,Medication,Oncology,142632,76,Yes
+040,31,Male,Heart Disease,7,Blood Work,Pulmonology,89148,81,No
+041,26,Female,Heart Disease,9,Medication,Oncology,93186,70,Yes
+042,70,Female,Heart Disease,7,Medication,General,133629,57,No
+043,19,Female,Asthma,3,Blood Work,Endocrinology,80316,87,No
+044,77,Female,Cancer,3,Blood Work,Cardiology,38380,57,No
+045,88,Male,Heart Disease,8,Imaging,Pulmonology,120198,99,Yes
+046,61,Female,Asthma,5,Medication,Pulmonology,12356,52,Yes
+047,25,Female,Diabetes,4,Medication,Oncology,80326,93,No
+048,64,Female,Diabetes,8,Imaging,Pulmonology,102447,52,No
+049,52,Male,Asthma,6,Therapy,General,124994,71,No
+050,53,Female,Asthma,2,Therapy,General,30049,55,No
+051,67,Male,Cancer,4,Therapy,Oncology,115361,51,Yes
+052,21,Female,Cancer,12,Imaging,General,26082,72,No
+053,19,Male,Diabetes,11,Medication,Endocrinology,10661,93,No
+054,23,Male,Heart Disease,4,Imaging,Oncology,12920,51,Yes
+055,71,Female,Diabetes,6,Imaging,Endocrinology,89561,87,No
+056,21,Male,Heart Disease,6,Therapy,Cardiology,18946,66,No
+057,71,Female,Heart Disease,1,Surgery,Endocrinology,26309,84,No
+058,80,Female,Cancer,14,Medication,Cardiology,65230,83,No
+059,35,Female,Hypertension,8,Therapy,Cardiology,121822,72,No
+060,61,Male,Hypertension,6,Surgery,Endocrinology,122340,79,No
+061,51,Male,Asthma,3,Surgery,Oncology,69321,57,Yes
+062,79,Female,Cancer,14,Blood Work,General,142028,71,No
+063,31,Female,Heart Disease,9,Medication,General,84131,93,No
+064,65,Male,Hypertension,2,Surgery,Cardiology,35963,85,Yes
+065,32,Female,Heart Disease,11,Therapy,Cardiology,111757,54,No
+066,89,Female,Hypertension,8,Blood Work,Oncology,109259,62,No
+067,79,Female,Hypertension,10,Medication,Pulmonology,49063,78,No
+068,57,Male,Hypertension,3,Imaging,Endocrinology,124225,80,No
+069,70,Male,Cancer,13,Therapy,Cardiology,126400,96,No
+070,41,Male,Diabetes,12,Surgery,General,90818,65,Yes
+071,43,Female,Heart Disease,5,Surgery,Oncology,14703,91,Yes
+072,77,Female,Cancer,6,Therapy,Endocrinology,82099,79,Yes
+073,58,Female,Cancer,10,Surgery,Oncology,41585,65,No
+074,46,Male,Cancer,6,Blood Work,Endocrinology,53585,61,No
+075,32,Female,Cancer,4,Medication,Endocrinology,36958,66,Yes
+076,62,Female,Cancer,3,Blood Work,Cardiology,36017,65,No
+077,82,Female,Asthma,4,Surgery,Oncology,134677,61,No
+078,88,Female,Heart Disease,1,Imaging,Oncology,39426,57,No
+079,26,Male,Cancer,4,Medication,General,27778,69,No
+080,18,Male,Heart Disease,1,Medication,General,52229,52,Yes
+081,25,Female,Asthma,12,Therapy,Cardiology,96652,65,No
+082,80,Male,Asthma,1,Therapy,Cardiology,138267,79,No
+083,28,Male,Heart Disease,10,Imaging,Pulmonology,136503,94,No
+084,25,Female,Hypertension,14,Medication,General,94878,72,No
+085,52,Female,Diabetes,6,Imaging,Endocrinology,67056,77,No
+086,52,Male,Hypertension,5,Therapy,Oncology,29975,89,No
+087,50,Female,Hypertension,14,Therapy,Cardiology,98397,54,Yes
+088,22,Male,Hypertension,11,Medication,Oncology,43142,69,No
+089,58,Female,Cancer,4,Blood Work,Oncology,36916,89,No
+090,45,Male,Asthma,13,Surgery,Pulmonology,74324,93,No
+091,24,Female,Hypertension,11,Therapy,General,135932,50,Yes
+092,89,Male,Asthma,3,Therapy,Cardiology,145720,79,Yes
+093,29,Male,Heart Disease,1,Blood Work,Oncology,106059,70,Yes
+094,51,Male,Diabetes,6,Blood Work,Cardiology,108317,69,No
+095,50,Female,Heart Disease,2,Imaging,Endocrinology,45046,55,No
+096,65,Male,Heart Disease,8,Imaging,Pulmonology,111459,71,Yes
+097,40,Male,Cancer,10,Surgery,Endocrinology,55893,67,No
+098,79,Female,Diabetes,5,Surgery,Cardiology,111520,57,No
+099,54,Female,Heart Disease,7,Medication,Cardiology,135818,88,No
+100,61,Male,Heart Disease,10,Imaging,General,71272,81,No
+101,52,Male,Diabetes,12,Therapy,Oncology,77649,82,No
+102,82,Female,Diabetes,2,Imaging,Oncology,74674,65,No
+103,64,Female,Heart Disease,13,Therapy,Endocrinology,96475,61,Yes
+104,20,Female,Diabetes,8,Blood Work,Pulmonology,71367,87,No
+105,18,Female,Heart Disease,2,Imaging,Oncology,131750,83,No
+106,22,Female,Heart Disease,4,Blood Work,General,128154,63,No
+107,31,Male,Cancer,1,Surgery,Endocrinology,54738,85,No
+108,44,Female,Hypertension,5,Surgery,Endocrinology,43397,82,No
+109,26,Male,Heart Disease,9,Medication,General,92189,72,Yes
+110,32,Male,Asthma,1,Imaging,Pulmonology,86367,99,No
+111,59,Male,Hypertension,9,Blood Work,General,130585,94,Yes
+112,68,Female,Hypertension,11,Therapy,Pulmonology,86619,51,Yes
+113,80,Male,Hypertension,8,Surgery,General,121453,90,No
+114,69,Male,Cancer,6,Surgery,General,29816,70,No
+115,21,Female,Heart Disease,7,Therapy,Cardiology,147348,51,Yes
+116,40,Male,Cancer,3,Blood Work,Endocrinology,89530,76,No
+117,32,Male,Heart Disease,14,Blood Work,General,118856,58,No
+118,60,Female,Cancer,1,Imaging,General,81635,50,Yes
+119,46,Male,Cancer,5,Imaging,Oncology,117803,60,No
+120,53,Male,Asthma,14,Medication,Endocrinology,45946,52,No
+121,30,Male,Cancer,12,Surgery,Oncology,65204,72,No
+122,49,Female,Diabetes,12,Imaging,Endocrinology,25563,75,Yes
+123,88,Female,Asthma,2,Blood Work,Oncology,102324,53,No
+124,76,Female,Cancer,14,Therapy,General,19847,67,No
+125,45,Male,Hypertension,5,Blood Work,General,36155,55,No
+126,83,Male,Diabetes,8,Surgery,Cardiology,89671,84,Yes
+127,59,Female,Diabetes,11,Blood Work,Oncology,126891,71,No
+128,62,Male,Diabetes,9,Medication,Pulmonology,93310,92,Yes
+129,79,Male,Asthma,2,Surgery,Cardiology,141691,64,No
+130,74,Female,Cancer,12,Therapy,Oncology,44707,71,Yes
+131,23,Female,Cancer,3,Medication,Oncology,91537,86,No
+132,45,Male,Hypertension,3,Surgery,Cardiology,101155,91,No
+133,45,Male,Hypertension,1,Therapy,General,10281,61,No
+134,61,Male,Diabetes,8,Medication,Oncology,142130,96,Yes
+135,47,Female,Hypertension,6,Medication,General,86260,98,No
+136,79,Female,Asthma,12,Surgery,Cardiology,74178,91,No
+137,79,Female,Cancer,13,Imaging,General,43997,87,No
+138,18,Female,Diabetes,8,Medication,Endocrinology,129273,67,No
+139,44,Male,Hypertension,11,Medication,Pulmonology,142311,94,No
+140,79,Female,Asthma,9,Therapy,Oncology,136945,84,No
+141,20,Female,Asthma,5,Blood Work,Pulmonology,55272,79,No
+142,87,Female,Hypertension,14,Surgery,General,99393,73,No
+143,89,Female,Cancer,12,Surgery,Oncology,71212,91,No
+144,44,Female,Hypertension,14,Imaging,General,130030,79,No
+145,26,Male,Diabetes,3,Imaging,Endocrinology,66503,63,No
+146,79,Male,Hypertension,5,Surgery,Cardiology,147710,55,Yes
+147,54,Female,Asthma,5,Imaging,Oncology,16570,52,No
+148,68,Male,Hypertension,5,Therapy,Endocrinology,78785,65,No
+149,61,Female,Cancer,3,Surgery,Endocrinology,19110,56,No
+150,41,Female,Heart Disease,11,Imaging,Oncology,89141,63,Yes
+151,76,Male,Hypertension,14,Surgery,General,22115,58,No
+152,49,Male,Cancer,10,Blood Work,Endocrinology,49062,64,No
+153,69,Female,Cancer,14,Medication,Pulmonology,32911,70,No
+154,79,Female,Asthma,4,Surgery,Endocrinology,114061,84,Yes
+155,75,Female,Cancer,9,Medication,General,42556,51,No
+156,69,Male,Cancer,13,Imaging,General,138335,76,No
+157,29,Female,Cancer,10,Medication,Pulmonology,11969,51,No
+158,56,Female,Cancer,9,Surgery,Endocrinology,53753,84,No
+159,19,Female,Diabetes,2,Blood Work,General,145542,67,No
+160,20,Male,Diabetes,8,Imaging,Oncology,131863,63,No
+161,73,Female,Asthma,8,Surgery,Cardiology,20225,69,Yes
+162,76,Female,Hypertension,7,Imaging,Cardiology,133008,67,No
+163,19,Male,Cancer,8,Therapy,Cardiology,115823,59,No
+164,19,Female,Hypertension,14,Medication,Endocrinology,23669,74,Yes
+165,71,Female,Hypertension,3,Therapy,Pulmonology,134398,51,Yes
+166,18,Male,Asthma,13,Surgery,General,120677,74,No
+167,36,Female,Cancer,6,Blood Work,Oncology,58320,82,No
+168,19,Male,Cancer,1,Imaging,Oncology,135354,85,No
+169,70,Male,Heart Disease,7,Medication,Endocrinology,98009,80,No
+170,61,Female,Hypertension,1,Imaging,Cardiology,38625,63,No
+171,49,Female,Hypertension,9,Surgery,Endocrinology,34089,50,No
+172,87,Female,Diabetes,1,Imaging,Pulmonology,46487,95,Yes
+173,49,Female,Heart Disease,1,Medication,Pulmonology,120448,65,No
+174,85,Male,Diabetes,7,Surgery,General,60138,95,No
+175,72,Female,Diabetes,2,Imaging,General,64061,52,Yes
+176,73,Male,Diabetes,14,Blood Work,Pulmonology,111376,84,Yes
+177,34,Female,Asthma,5,Surgery,Pulmonology,89134,90,No
+178,55,Female,Asthma,8,Surgery,Pulmonology,57055,55,No
+179,41,Female,Diabetes,8,Blood Work,Endocrinology,29508,74,No
+180,86,Male,Heart Disease,3,Therapy,Pulmonology,120169,62,No
+181,87,Female,Hypertension,7,Medication,Oncology,18125,83,No
+182,28,Female,Heart Disease,3,Therapy,Cardiology,46059,57,No
+183,33,Female,Cancer,6,Imaging,Pulmonology,113409,70,No
+184,76,Female,Asthma,6,Blood Work,Cardiology,15704,83,No
+185,87,Male,Hypertension,3,Therapy,Endocrinology,121279,53,Yes
+186,20,Female,Hypertension,7,Surgery,Cardiology,128516,74,No
+187,37,Male,Cancer,3,Imaging,Endocrinology,124044,64,No
+188,76,Male,Cancer,8,Imaging,Oncology,39165,53,No
+189,53,Male,Diabetes,10,Therapy,Endocrinology,77203,94,No
+190,36,Male,Asthma,4,Therapy,Endocrinology,14114,61,No
+191,84,Male,Asthma,13,Blood Work,General,46321,81,Yes
+192,36,Male,Heart Disease,1,Medication,Pulmonology,83297,81,No
+193,37,Female,Diabetes,4,Therapy,Pulmonology,106652,77,No
+194,88,Male,Diabetes,14,Therapy,Oncology,109304,62,Yes
+195,69,Male,Diabetes,7,Surgery,Oncology,27772,80,Yes
+196,50,Male,Diabetes,11,Imaging,Pulmonology,113754,63,No
+197,57,Female,Asthma,4,Medication,General,13712,69,Yes
+198,56,Female,Asthma,13,Surgery,Pulmonology,142439,67,No
+199,18,Male,Diabetes,6,Blood Work,General,125142,78,Yes
+200,28,Female,Heart Disease,9,Blood Work,Oncology,101736,55,No
+201,74,Male,Hypertension,1,Therapy,Cardiology,61924,81,Yes
+202,67,Male,Hypertension,13,Therapy,Oncology,13726,78,No
+203,40,Female,Heart Disease,5,Blood Work,Oncology,99152,92,No
+204,48,Male,Diabetes,11,Therapy,Endocrinology,37723,51,No
+205,59,Female,Asthma,7,Medication,Endocrinology,136969,72,Yes
+206,24,Female,Hypertension,1,Therapy,Endocrinology,110494,68,No
+207,33,Male,Cancer,14,Imaging,Endocrinology,45643,80,No
+208,77,Male,Cancer,4,Therapy,General,113896,54,No
+209,19,Female,Heart Disease,6,Surgery,Pulmonology,149999,68,Yes
+210,18,Male,Diabetes,2,Medication,Cardiology,103680,83,Yes
+211,65,Male,Hypertension,10,Surgery,Oncology,106546,59,No
+212,29,Male,Diabetes,5,Surgery,General,89973,74,No
+213,86,Female,Hypertension,11,Imaging,Cardiology,73449,51,No
+214,54,Female,Heart Disease,10,Medication,General,119834,60,No
+215,49,Male,Heart Disease,1,Medication,General,35537,99,No
+216,26,Female,Cancer,6,Medication,Oncology,87576,80,Yes
+217,36,Female,Diabetes,6,Medication,Pulmonology,117522,64,No
+218,65,Female,Cancer,13,Medication,Endocrinology,32612,58,Yes
+219,20,Female,Diabetes,4,Imaging,Pulmonology,16471,72,No
+220,37,Female,Cancer,13,Therapy,Oncology,41348,68,No
+221,41,Male,Asthma,8,Surgery,Oncology,11177,58,No
+222,71,Male,Asthma,4,Medication,Oncology,145832,84,Yes
+223,50,Male,Asthma,8,Therapy,Cardiology,42779,70,Yes
+224,41,Female,Asthma,13,Therapy,Pulmonology,31636,58,Yes
+225,89,Female,Hypertension,8,Surgery,Pulmonology,91889,77,Yes
+226,53,Male,Asthma,5,Imaging,General,63551,95,Yes
+227,55,Female,Heart Disease,13,Blood Work,General,56819,56,No
+228,42,Male,Heart Disease,4,Blood Work,General,83770,65,Yes
+229,35,Male,Hypertension,12,Therapy,Oncology,88714,65,Yes
+230,83,Male,Asthma,13,Surgery,Pulmonology,34596,82,No
+231,71,Female,Asthma,2,Blood Work,Oncology,74106,53,No
+232,52,Female,Asthma,11,Therapy,Cardiology,69182,53,No
+233,78,Male,Cancer,3,Imaging,General,97163,88,Yes
+234,58,Male,Diabetes,3,Blood Work,Oncology,49310,89,No
+235,50,Male,Cancer,4,Therapy,Oncology,66088,66,Yes
+236,85,Male,Diabetes,4,Therapy,Cardiology,138803,86,Yes
+237,50,Female,Asthma,10,Medication,Endocrinology,149978,88,No
+238,31,Female,Asthma,11,Imaging,Pulmonology,46914,78,Yes
+239,38,Male,Cancer,11,Medication,Endocrinology,120350,85,No
+240,65,Male,Cancer,5,Surgery,General,55379,87,No
+241,37,Female,Diabetes,4,Medication,Oncology,56413,88,No
+242,25,Female,Heart Disease,11,Medication,Cardiology,147084,99,No
+243,24,Male,Diabetes,14,Blood Work,Cardiology,17151,86,Yes
+244,84,Male,Cancer,10,Therapy,Pulmonology,67716,84,No
+245,34,Male,Cancer,8,Imaging,Endocrinology,103747,56,No
+246,50,Female,Hypertension,6,Medication,Pulmonology,131999,76,No
+247,65,Female,Cancer,6,Imaging,Oncology,124793,77,No
+248,76,Female,Hypertension,8,Medication,Pulmonology,118177,71,Yes
+249,39,Male,Heart Disease,7,Surgery,Cardiology,22289,63,No
+250,47,Male,Diabetes,10,Medication,Cardiology,96365,56,Yes
+251,55,Female,Diabetes,14,Blood Work,General,124014,86,No
+252,68,Female,Hypertension,11,Therapy,General,82588,71,No
+253,71,Male,Diabetes,12,Surgery,Oncology,73646,54,Yes
+254,25,Female,Cancer,10,Medication,Endocrinology,13654,51,No
+255,44,Female,Asthma,13,Imaging,Pulmonology,28743,76,Yes
+256,44,Male,Hypertension,8,Surgery,Oncology,58368,70,No
+257,38,Female,Diabetes,14,Surgery,General,147513,87,No
+258,47,Male,Hypertension,2,Medication,Pulmonology,129735,64,No
+259,45,Male,Hypertension,9,Surgery,General,129891,70,No
+260,81,Male,Asthma,1,Imaging,Pulmonology,117971,59,No
+261,86,Male,Cancer,8,Surgery,Endocrinology,22149,72,Yes
+262,78,Male,Hypertension,12,Imaging,Oncology,110102,88,Yes
+263,65,Male,Diabetes,11,Medication,Pulmonology,69189,54,Yes
+264,36,Male,Heart Disease,12,Therapy,Cardiology,81031,50,Yes
+265,21,Female,Hypertension,12,Surgery,Cardiology,52668,62,No
+266,52,Male,Hypertension,4,Therapy,Pulmonology,98204,70,No
+267,81,Male,Asthma,4,Imaging,Pulmonology,47384,75,No
+268,66,Female,Cancer,5,Surgery,Pulmonology,91929,99,Yes
+269,34,Female,Heart Disease,8,Blood Work,Cardiology,137959,94,No
+270,61,Female,Diabetes,5,Therapy,Cardiology,86153,70,No
+271,47,Male,Heart Disease,8,Surgery,Pulmonology,85388,67,Yes
+272,63,Female,Diabetes,10,Therapy,General,41401,86,No
+273,23,Male,Cancer,1,Surgery,General,129503,94,No
+274,54,Male,Diabetes,12,Medication,Endocrinology,137834,81,Yes
+275,41,Male,Asthma,10,Therapy,Oncology,44084,85,No
+276,63,Male,Asthma,9,Blood Work,General,120641,66,No
+277,70,Female,Asthma,6,Blood Work,Cardiology,115111,84,Yes
+278,77,Female,Asthma,3,Imaging,General,148299,98,No
+279,80,Male,Heart Disease,13,Surgery,Endocrinology,46041,60,No
+280,49,Male,Cancer,14,Therapy,Endocrinology,98920,70,No
+281,50,Male,Diabetes,8,Imaging,Oncology,75681,75,No
+282,84,Female,Diabetes,9,Therapy,General,91571,53,No
+283,35,Male,Asthma,6,Surgery,Cardiology,137556,83,No
+284,42,Male,Asthma,11,Blood Work,Cardiology,36160,97,No
+285,71,Female,Hypertension,7,Medication,Pulmonology,27633,67,Yes
+286,75,Female,Cancer,1,Blood Work,Cardiology,27014,89,No
+287,84,Male,Heart Disease,14,Imaging,Oncology,90532,84,No
+288,63,Female,Diabetes,5,Medication,Oncology,59104,90,No
+289,41,Female,Hypertension,5,Imaging,Cardiology,87231,78,Yes
+290,49,Male,Hypertension,10,Surgery,Cardiology,78388,78,No
+291,64,Female,Diabetes,14,Medication,Pulmonology,26014,87,Yes
+292,40,Male,Heart Disease,4,Imaging,Cardiology,102578,91,Yes
+293,83,Female,Hypertension,6,Surgery,Pulmonology,50390,70,Yes
+294,44,Male,Hypertension,7,Blood Work,Pulmonology,33711,91,No
+295,19,Male,Cancer,9,Surgery,Cardiology,101658,62,No
+296,34,Male,Heart Disease,1,Therapy,Endocrinology,67993,98,No
+297,50,Female,Hypertension,6,Surgery,Endocrinology,17421,90,Yes
+298,26,Male,Heart Disease,7,Surgery,Pulmonology,27727,66,No
+299,60,Female,Diabetes,3,Therapy,Cardiology,122418,58,No
+300,65,Male,Asthma,8,Imaging,Endocrinology,14358,90,No
