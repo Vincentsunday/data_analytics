@@ -17,7 +17,7 @@ scaler_path = os.path.join(base_path, 'scaler.joblib')
 def load_assets():
     if not os.path.exists(model_path) or not os.path.exists(scaler_path):
         return None, None
-    model = load_model(model_path)
+    model = load_model(model_path,compile=False)
     scaler = joblib.load(scaler_path)
     return model, scaler
 
