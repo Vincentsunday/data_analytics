@@ -2,7 +2,7 @@ import streamlit as st
 import numpy as np
 import joblib
 import os
-from tensorflow.keras.models import load_model
+from tf_keras.models import load_model
 
 # --- PAGE CONFIG ---
 st.set_page_config(page_title="Bank Churn Predictor", page_icon="🧠")
@@ -10,7 +10,7 @@ st.set_page_config(page_title="Bank Churn Predictor", page_icon="🧠")
 # --- LOAD ASSETS ---
 # Using absolute paths to prevent "FileNotFound" errors
 base_path = os.path.dirname(__file__)
-model_path = os.path.join(base_path, 'ann_model.h5')
+model_path = os.path.join(base_path, 'ann_model.keras')
 scaler_path = os.path.join(base_path, 'scaler.joblib')
 
 @st.cache_resource
