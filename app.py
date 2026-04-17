@@ -24,7 +24,7 @@ def load_assets():
 ann, sc = load_assets()
 
 # --- UI INTERFACE ---
-st.title("🧠 ANN Customer Churn Analysis")
+st.title("Customer Churn Analysis By Vincent:Alogrithm==>Articial Neural Neural Network (ANN)")
 st.write("Determine if a customer will **Stay** or **Leave** based on their profile.")
 
 if ann is None:
