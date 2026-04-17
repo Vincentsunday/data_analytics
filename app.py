@@ -2,7 +2,7 @@ import streamlit as st
 import numpy as np
 import joblib
 import os
-from tf_keras.models import load_model
+from tensorflow.keras.models import load_model
 
 # --- PAGE CONFIG ---
 st.set_page_config(page_title="Bank Churn Predictor", page_icon="🧠")
