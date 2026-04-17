@@ -1,6 +1,6 @@
 streamlit
-tensorflow==2.15.0
-tf_keras==2.15.0
+tensorflow==2.20.0
+tf_keras==2.20.0
 scikit-learn
 joblib
 numpy<2.0.0
